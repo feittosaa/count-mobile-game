@@ -1,7 +1,0 @@
-main-logo:
-truck - Truck icons created by Freepik - Flaticon
-count - Count icons created by Freepik - Flaticon
-dog:
-Pet icons created by Freepik - Flaticon
-truck:
-Transport icons created by Ctrlastudio - Flaticon
