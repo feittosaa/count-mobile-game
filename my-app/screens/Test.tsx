@@ -4,12 +4,12 @@ import styled from 'styled-components/native';
 import Option from '../components/Option';
 import TopBox from '../components/TopBox';
 
-function Home() {
+function Test() {
     return (
         <ScrollView>
             <TopBox />
             <View>
-                <Title>Home</Title>
+                <Title>Test</Title>
                 <Option />
             </View>
         </ScrollView>
@@ -21,4 +21,4 @@ const Title = styled.Text`
   font-size: 32px;
 `;
 
-export default Home
+export default Test
